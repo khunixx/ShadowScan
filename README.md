@@ -11,8 +11,7 @@ ShadowScan is a Bash script designed to automate network reconnaissance while en
 3. [Prerequisites](#prerequisites)  
 4. [Tested On](#tested-on)  
 5. [Usage](#usage)  
-6. [Script Workflow](#script-workflow)  
-7. [Disclaimer](#disclaimer)  
+6. [Script Workflow](#script-workflow)   
 
 ---
 
