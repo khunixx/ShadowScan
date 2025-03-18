@@ -140,6 +140,3 @@ After completion, the script will save scan results in the current directory and
 
 ---
 
-## Disclaimer  
-
-This tool is intended for **legal security testing and educational purposes** only. Unauthorized use against systems without explicit permission is strictly prohibited.  
