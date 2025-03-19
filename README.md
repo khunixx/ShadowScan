@@ -128,5 +128,4 @@ sudo ./network_scan.sh
 
 ---
 
-## License  
-This script is provided "as is" without any guarantees. Use responsibly.
+
